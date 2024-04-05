@@ -4,11 +4,11 @@ This repository contains scripts developed while solving specific levels of the 
 
 ## Scripts Overview
 
-- **Level 23 level23_script.sh**: A bash script designed to automate the retrieval of the password for the next level by exploiting a scheduled cron job's behavior.
+- **Level 23 - level23_script.sh**: A bash script designed to automate the retrieval of the password for the next level by exploiting a scheduled cron job's behavior.
 
-- **Level 24 level24_bash_script.sh**: Facilitates the discovery of a 4-digit PIN by brute-forcing a network service listening on localhost. It sequentially submits PIN guesses and interprets responses to identify the correct PIN.
+- **Level 24 - level24_bash_script.sh**: Facilitates the discovery of a 4-digit PIN by brute-forcing a network service listening on localhost. It sequentially submits PIN guesses and interprets responses to identify the correct PIN.
 
-- **Level 24 level24_python_script.py**: An alternative approach to the Level 24 Bash Script, implemented in Python. It serves the same purpose but showcases how similar tasks can be accomplished using different programming languages and paradigms.
+- **Level 24 - level24_python_script.py**: An alternative approach to the Level 24 Bash Script, implemented in Python. It serves the same purpose but showcases how similar tasks can be accomplished using different programming languages and paradigms.
 
 ## Usage
 
